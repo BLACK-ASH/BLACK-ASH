@@ -10,7 +10,7 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=BLACK-ASH&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=BLACK-ASH&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+[![](https://github-profile-trophy.vercel.app/?username=BLACK-ASH&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://trophygithubreadmelang.cybee.dpdns.org/?username=BLACK-ASH&theme=dark)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
